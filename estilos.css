@@ -1,0 +1,25 @@
+h1 {
+    font-family: fantasy;
+}
+p {
+    font-family: fantasy;
+    font-size: 18px;
+}
+
+body {
+    background-color: #9854C2;
+}
+.imagen{
+    position: absolute;
+    top: 600px;
+    left: 1450px;
+    height: 50px;
+    width: 50px;
+}
+.imagen2{
+    position: absolute;
+    top: 200px;
+    left: 550px;
+    height: auto;
+    width: auto;
+}
